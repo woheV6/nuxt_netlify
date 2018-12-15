@@ -11,7 +11,7 @@ import axios from 'axios'
 export default {
   data(){
     return {
-      message:'asyncData-...'
+      message:'你好！👋👋👋👋👋👋👋'
     }
   },
   async asyncData(){
