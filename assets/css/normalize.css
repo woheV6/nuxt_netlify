@@ -1,6 +1,4 @@
-html{
-  color: red !important;
-}
+
 
 .page-enter-active,.page-leave-active{
 transition:opacity 1s;
